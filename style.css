@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+header{
+
+background-color:blue;
+border-radius:10px ;
+padding:10px;
+}
+
+h1{
+color:orange;
+text-align: center;
+}
+
+.prf {
+background-color: forestgreen;
+}
+
+.hjhj{
+padding:20px;
+
+
+}
+
+.ifif{
+color:blue;
+
+}
